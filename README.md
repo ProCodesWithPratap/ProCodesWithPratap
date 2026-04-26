@@ -1,77 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,35:0f172a,70:2563eb,100:22c55e&text=Veer%20Pratap&fontColor=ffffff&fontSize=54&fontAlignY=35&desc=Full-Stack%20Learner%20%7C%20AI-Assisted%20Developer%20%7C%20Digital%20Creator&descAlignY=56&descSize=17&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,25:0f172a,55:1d4ed8,80:7c3aed,100:22c55e&text=VEER%20PRATAP&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20AI-Powered%20Builder%20%7C%20Creative%20Technologist&descAlignY=58&descSize=18&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=950&lines=Building+Obstacle+Developer;Crafting+full-stack+web+experiences;React+%2B+Vite+%2B+Express+%2B+Prisma;Learning+fast,+building+daily,+improving+always" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2300&pause=700&color=22C55E&center=true&vCenter=true&width=1000&lines=Building+Obstacle+Developer+%E2%9A%A1;Full-Stack+Portfolio+%2B+Blog+Platform;React+19+%E2%80%A2+Vite+%E2%80%A2+Express+%E2%80%A2+Prisma+%E2%80%A2+PostgreSQL;Designing+clean+UI+and+real+digital+products;Learning+fast+%E2%80%A2+Building+daily+%E2%80%A2+Improving+always" alt="Typing SVG" />
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=ProCodesWithPratap&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/ProCodesWithPratap?tab=followers"><img src="https://img.shields.io/github/followers/ProCodesWithPratap?label=Followers&style=for-the-badge&color=2563eb" alt="GitHub Followers" /></a>
-<a href="https://github.com/ProCodesWithPratap"><img src="https://img.shields.io/badge/GitHub-ProCodesWithPratap-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://github.com/ProCodesWithPratap"><img src="https://img.shields.io/badge/ProCodesWithPratap-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=ProCodesWithPratap&label=PROFILE%20VIEWS&color=22c55e&style=for-the-badge" />
+<a href="https://github.com/ProCodesWithPratap?tab=followers"><img src="https://img.shields.io/github/followers/ProCodesWithPratap?label=FOLLOWERS&style=for-the-badge&color=2563eb&logo=github" /></a>
+<a href="https://github.com/ProCodesWithPratap?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-7c3aed?style=for-the-badge&logo=github" /></a>
 
 </div>
 
 ---
 
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z6OGtwM2g1bW5zM2JoaGx2b3VzZmY0NjV0d2k0ZnE4M3FiaDY0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" />
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
+
+```ts
+class VeerPratap {
+  username = "ProCodesWithPratap";
+  role = "Full-Stack Developer in Progress";
+  location = "India";
+  currentBuild = "Obstacle Developer";
+  mindset = "Build. Break. Fix. Improve. Repeat.";
+
+  stack = {
+    frontend: ["React 19", "Vite", "Tailwind CSS", "Framer Motion"],
+    backend: ["Express.js", "TypeScript", "JWT", "Nodemailer"],
+    database: ["PostgreSQL", "Prisma ORM"],
+    tools: ["GitHub", "Vercel", "Google AI Studio", "Canva"]
+  };
+}
+```
+
+### ⚡ What I do
+
+- 🚀 Build full-stack web applications with modern tools
+- 🎨 Design clean interfaces with smooth user experience
+- 🧠 Use AI-assisted workflows to speed up development
+- 🛠️ Turn ideas into real projects, not just concepts
+- 📈 Improve every project step by step through commits
+
+<br clear="right" />
+
+---
+
+<div align="center">
+
+## 🚀 Main Project Showcase
+
 <table>
 <tr>
-<td width="62%">
+<td width="50%">
 
-## 👋 Hi, I'm Veer Pratap
+### ⚡ Obstacle Developer
 
-**A developer in progress, building real projects with modern tools.**
+A full-stack **portfolio and blog platform** built to showcase developer identity, projects, content, and professional presence.
 
-I love creating clean, useful, and professional web experiences. My current focus is full-stack development, AI-assisted workflows, and turning project ideas into polished digital products.
+**Core Features**
 
-- 🚀 Currently building **Obstacle Developer**
-- 🧠 Learning **React, TypeScript, Express, Prisma, PostgreSQL, Vercel, and AI tools**
-- 🎨 Improving **UI/UX, animations, responsive design, and product presentation**
-- 💻 Interested in **full-stack apps, portfolio systems, blogs, dashboards, and automation**
-- ⚡ Mindset: **Build. Break. Fix. Improve. Repeat.**
+- Developer portfolio system
+- Blog/content structure
+- Authentication workflow
+- Database-powered backend
+- Email-ready setup
+- Animated modern UI
+- Deployment-ready architecture
 
 </td>
-<td width="38%" align="center">
+<td width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+### 🧩 Project Stack
+
+```txt
+Frontend   → React 19 + Vite + Tailwind CSS
+Backend    → Express.js + TypeScript
+Database   → PostgreSQL + Prisma ORM
+Auth       → JWT + bcryptjs
+Email      → Nodemailer
+Animation  → Framer Motion
+Deploy     → Vercel-ready workflow
+```
 
 </td>
 </tr>
 </table>
 
----
-
-## 🚀 Featured Project: Obstacle Developer
-
-<div align="center">
-
-### ⚡ Obstacle Developer
-
-**A full-stack portfolio and blog platform built to showcase developer identity, projects, content, and professional presence.**
-
 <a href="https://github.com/ProCodesWithPratap/obstacle.dev">
-  <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repository-Obstacle%20Developer-22c55e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/ProCodesWithPratap/obstacle.dev/stargazers">
-  <img src="https://img.shields.io/github/stars/ProCodesWithPratap/obstacle.dev?style=for-the-badge&color=22c55e&logo=github" />
+  <img src="https://img.shields.io/github/stars/ProCodesWithPratap/obstacle.dev?style=for-the-badge&color=facc15&logo=github" />
 </a>
 <a href="https://github.com/ProCodesWithPratap/obstacle.dev/network/members">
-  <img src="https://img.shields.io/github/forks/ProCodesWithPratap/obstacle.dev?style=for-the-badge&color=2563eb&logo=github" />
+  <img src="https://img.shields.io/github/forks/ProCodesWithPratap/obstacle.dev?style=for-the-badge&color=38bdf8&logo=github" />
 </a>
 
 </div>
-
-### 🔥 What makes it strong
-
-- ✅ Full-stack structure with frontend, backend, database, and authentication
-- ✅ Developer portfolio + blog style presentation
-- ✅ Modern UI powered by React, Vite, Tailwind CSS, and animations
-- ✅ Backend built with Express.js and TypeScript
-- ✅ Database workflow using PostgreSQL and Prisma ORM
-- ✅ Authentication flow using JWT and bcryptjs
-- ✅ Email functionality using Nodemailer
-- ✅ Ready for professional deployment workflows
 
 ---
 
@@ -79,45 +108,65 @@ I love creating clean, useful, and professional web experiences. My current focu
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Languages & Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### Backend, Database & Auth
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
 
-### Tools & Workflow
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285f4?style=for-the-badge&logo=google&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white)
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=github,vercel,vscode,figma" />
+
+<br />
+<br />
+
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00c4cc?style=flat-square&logo=canva&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 Developer Mode
+## 🎯 Build Status
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Full--Stack-95%25-22c55e?style=for-the-badge" />
+<br /><b>Project Building</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/UI%2FUX-88%25-38bdf8?style=for-the-badge" />
+<br /><b>Design Polish</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Backend-85%25-7c3aed?style=for-the-badge" />
+<br /><b>API Logic</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Consistency-97%25-facc15?style=for-the-badge" />
+<br /><b>Daily Growth</b>
+</td>
+</tr>
+</table>
 
 ```txt
-const developer = {
-  name: "Veer Pratap",
-  username: "ProCodesWithPratap",
-  focus: "Full-stack web development",
-  currentProject: "Obstacle Developer",
-  stack: ["React", "Vite", "Express", "TypeScript", "Prisma", "PostgreSQL"],
-  mindset: "Learn fast, build real, improve daily",
-  mission: "Create clean and useful digital products"
-};
+Full-stack projects      ████████████████████░   95%
+React + Vite             ███████████████████░░   90%
+Express + TypeScript     ██████████████████░░░   85%
+Prisma + PostgreSQL      █████████████████░░░░   80%
+UI/UX polish             ██████████████████░░░   88%
+AI-assisted workflow     ███████████████████░░   92%
 ```
 
 ---
@@ -126,60 +175,82 @@ const developer = {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ProCodesWithPratap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=ProCodesWithPratap&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProCodesWithPratap&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProCodesWithPratap&theme=github-dark-blue&hide_border=true" />
 
 <br />
 <br />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProCodesWithPratap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProCodesWithPratap&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProCodesWithPratap&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Wall
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ProCodesWithPratap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ProCodesWithPratap&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProCodesWithPratap&theme=react-dark&hide_border=true&area=true&custom_title=Veer%20Pratap's%20Contribution%20Graph" width="100%" alt="GitHub Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProCodesWithPratap&theme=github-dark&hide_border=true&area=true&custom_title=Veer%20Pratap's%20Development%20Journey" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🐍 Contribution Snake
 
-```txt
-Full-stack projects      ████████████████████░   95%
-React + Vite             ███████████████████░░   90%
-Express + TypeScript     ██████████████████░░░   85%
-Prisma + PostgreSQL      █████████████████░░░░   80%
-UI/UX polish             ██████████████████░░░   85%
-Consistency              ████████████████████░   95%
-```
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProCodesWithPratap/ProCodesWithPratap/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProCodesWithPratap/ProCodesWithPratap/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ProCodesWithPratap/ProCodesWithPratap/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌌 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProCodesWithPratap&theme=github_dark" />
+
+<br />
+<br />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProCodesWithPratap&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProCodesWithPratap&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProCodesWithPratap&theme=github_dark" />
+
+</div>
+
+---
+
+## 🌐 Connect & Explore
 
 <div align="center">
 
 <a href="https://github.com/ProCodesWithPratap">
-  <img src="https://img.shields.io/badge/GitHub-ProCodesWithPratap-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ProCodesWithPratap-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/ProCodesWithPratap/obstacle.dev">
-  <img src="https://img.shields.io/badge/Project-Obstacle%20Developer-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Project-Obstacle%20Developer-22c55e?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+<a href="https://github.com/ProCodesWithPratap?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore%20My%20Work-2563eb?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -188,13 +259,13 @@ Consistency              ██████████████████�
 
 <div align="center">
 
-### ✨ Building with patience. Improving with every commit.
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0:22c55e,45:2563eb,100:020617&section=footer" width="100%" />
+<h3>✨ Building with patience. Improving with every commit. ✨</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22c55e,35:2563eb,70:7c3aed,100:020617&section=footer" />
 
 </div>

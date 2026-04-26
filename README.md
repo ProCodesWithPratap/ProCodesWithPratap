@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,25:0f172a,55:1d4ed8,80:7c3aed,100:22c55e&text=VEER%20PRATAP&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20AI-Powered%20Builder%20%7C%20Creative%20Technologist&descAlignY=58&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,25:0f172a,55:1d4ed8,80:7c3aed,100:22c55e&text=VEER%20PRATAP&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Multi-Language%20Developer%20%7C%20AI-Powered%20Builder%20%7C%20Creative%20Technologist&descAlignY=58&descSize=18&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2300&pause=700&color=22C55E&center=true&vCenter=true&width=1000&lines=Building+Obstacle+Developer+%E2%9A%A1;Full-Stack+Portfolio+%2B+Blog+Platform;React+19+%E2%80%A2+Vite+%E2%80%A2+Express+%E2%80%A2+Prisma+%E2%80%A2+PostgreSQL;Designing+clean+UI+and+real+digital+products;Learning+fast+%E2%80%A2+Building+daily+%E2%80%A2+Improving+always" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2300&pause=700&color=22C55E&center=true&vCenter=true&width=1000&lines=Building+modern+digital+products+%E2%9A%A1;Exploring+Full-Stack+Development;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;React+%E2%80%A2+Vite+%E2%80%A2+Express+%E2%80%A2+Prisma+%E2%80%A2+PostgreSQL;Learning+fast+%E2%80%A2+Building+daily+%E2%80%A2+Improving+always" alt="Typing SVG" />
 
 <br />
 <br />
@@ -28,19 +28,19 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Focus-Full--Stack-22c55e?style=for-the-badge" />
-<br /><b>Modern Web Apps</b>
+<img src="https://img.shields.io/badge/Focus-Multi--Language-22c55e?style=for-the-badge" />
+<br /><b>Wide Skill Stack</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Project-Obstacle.dev-2563eb?style=for-the-badge" />
-<br /><b>Portfolio + Blog</b>
+<img src="https://img.shields.io/badge/Lab-Test%20Projects-2563eb?style=for-the-badge" />
+<br /><b>Experiment + Learn</b>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Workflow-AI--Assisted-7c3aed?style=for-the-badge" />
 <br /><b>Fast Building</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Mission-Ship%20Real%20Products-facc15?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mission-Ship%20Real%20Builds-facc15?style=for-the-badge" />
 <br /><b>Daily Growth</b>
 </td>
 </tr>
@@ -57,25 +57,27 @@
 ```ts
 class VeerPratap {
   username = "ProCodesWithPratap";
-  role = "Full-Stack Developer in Progress";
-  currentBuild = "Obstacle Developer";
+  role = "Developer in Progress";
+  focus = "Full-stack apps, creative UI, backend logic, and multi-language practice";
   mindset = "Build. Break. Fix. Improve. Repeat.";
 
+  languages = ["Python", "C++", "C#", "JavaScript", "TypeScript", "HTML", "CSS"];
+
   stack = {
-    frontend: ["React 19", "Vite", "Tailwind CSS", "Framer Motion"],
-    backend: ["Express.js", "TypeScript", "JWT", "Nodemailer"],
-    database: ["PostgreSQL", "Prisma ORM"],
-    tools: ["GitHub", "Vercel", "Google AI Studio", "Canva"]
+    frontend: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
+    backend: ["Node.js", "Express.js", "JWT", "Nodemailer"],
+    database: ["PostgreSQL", "Prisma ORM", "Supabase"],
+    tools: ["GitHub", "Vercel", "VS Code", "Google AI Studio", "Canva"]
   };
 }
 ```
 
 ### ⚡ What I do
 
-- 🚀 Build full-stack web applications with modern tools
+- 🚀 Build and test full-stack web applications
 - 🎨 Design clean interfaces with smooth user experience
 - 🧠 Use AI-assisted workflows to speed up development
-- 🛠️ Turn ideas into real projects, not just concepts
+- 🛠️ Practice multiple languages to strengthen logic and problem-solving
 - 📈 Improve every project step by step through commits
 
 <br clear="right" />
@@ -84,7 +86,7 @@ class VeerPratap {
 
 <div align="center">
 
-## 🚀 Main Project Showcase
+## 🧪 Project Lab Showcase
 
 <table>
 <tr>
@@ -92,31 +94,29 @@ class VeerPratap {
 
 ### ⚡ Obstacle Developer
 
-A full-stack **portfolio and blog platform** built to showcase developer identity, projects, content, and professional presence.
+A **test project / development lab** for practicing full-stack structure, portfolio-style pages, blog/content flow, authentication, backend setup, and database integration.
 
-**Core Features**
+**Why it matters**
 
-- Developer portfolio system
-- Blog/content structure
-- Authentication workflow
-- Database-powered backend
-- Email-ready setup
-- Animated modern UI
-- Deployment-ready architecture
+- Helps test real full-stack workflows
+- Useful for practicing frontend + backend connection
+- Includes database and authentication concepts
+- Works as a learning ground for cleaner project structure
+- Improves deployment and production-readiness skills
 
 </td>
 <td width="50%">
 
-### 🧩 Project Stack
+### 🧩 Test Stack
 
 ```txt
-Frontend   → React 19 + Vite + Tailwind CSS
+Frontend   → React + Vite + Tailwind CSS
 Backend    → Express.js + TypeScript
 Database   → PostgreSQL + Prisma ORM
 Auth       → JWT + bcryptjs
 Email      → Nodemailer
 Animation  → Framer Motion
-Deploy     → Vercel-ready workflow
+Purpose    → Test project + skill practice
 ```
 
 </td>
@@ -124,13 +124,10 @@ Deploy     → Vercel-ready workflow
 </table>
 
 <a href="https://github.com/ProCodesWithPratap/obstacle.dev">
-  <img src="https://img.shields.io/badge/View%20Repository-Obstacle%20Developer-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test%20Project-Obstacle%20Developer-22c55e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/ProCodesWithPratap/obstacle.dev/stargazers">
-  <img src="https://img.shields.io/github/stars/ProCodesWithPratap/obstacle.dev?style=for-the-badge&color=facc15&logo=github" />
-</a>
-<a href="https://github.com/ProCodesWithPratap/obstacle.dev/network/members">
-  <img src="https://img.shields.io/github/forks/ProCodesWithPratap/obstacle.dev?style=for-the-badge&color=38bdf8&logo=github" />
+<a href="https://github.com/ProCodesWithPratap?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-All%20Repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -143,28 +140,36 @@ Deploy     → Vercel-ready workflow
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### 💡 Idea Spark
-<img src="https://img.shields.io/badge/01-Imagine-22c55e?style=for-the-badge" />
+### 💡 Think
+<img src="https://img.shields.io/badge/01-Idea-22c55e?style=for-the-badge" />
 
-Turn raw ideas into clear product direction.
-
-</td>
-<td width="33%" align="center">
-
-### 🧱 Build Core
-<img src="https://img.shields.io/badge/02-Build-2563eb?style=for-the-badge" />
-
-Create the frontend, backend, database, and logic.
+Plan the feature, flow, and user experience.
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### 🚀 Ship Fast
-<img src="https://img.shields.io/badge/03-Launch-7c3aed?style=for-the-badge" />
+### 🧠 Logic
+<img src="https://img.shields.io/badge/02-Code-2563eb?style=for-the-badge" />
 
-Polish, deploy, test, and keep improving.
+Practice programming logic with multiple languages.
+
+</td>
+<td width="25%" align="center">
+
+### 🧱 Build
+<img src="https://img.shields.io/badge/03-Build-7c3aed?style=for-the-badge" />
+
+Create frontend, backend, database, and workflow.
+
+</td>
+<td width="25%" align="center">
+
+### 🚀 Ship
+<img src="https://img.shields.io/badge/04-Launch-facc15?style=for-the-badge" />
+
+Polish, deploy, test, and improve continuously.
 
 </td>
 </tr>
@@ -175,6 +180,7 @@ Polish, deploy, test, and keep improving.
 │                    VEER'S CREATIVE CONSOLE                   │
 ├──────────────────────────────────────────────────────────────┤
 │  idea.create()        →  product vision                      │
+│  logic.practice()     →  Python • C++ • C# • JS • TS          │
 │  ui.design()          →  clean visual experience             │
 │  api.connect()        →  working backend flow                │
 │  db.structure()       →  organized data layer                │
@@ -183,7 +189,7 @@ Polish, deploy, test, and keep improving.
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Design+like+a+creator;%3E+Build+like+a+developer;%3E+Ship+like+a+founder;%3E+Improve+like+a+professional" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Think+like+a+builder;%3E+Code+like+a+problem-solver;%3E+Design+like+a+creator;%3E+Ship+like+a+founder;%3E+Improve+like+a+professional" />
 
 </div>
 
@@ -193,28 +199,36 @@ Polish, deploy, test, and keep improving.
 
 <div align="center">
 
-### Languages & Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,html,css" />
 
-### Backend, Database & Auth
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+
+### Backend, Database & Runtime
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase" />
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=github,vercel,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=github,vercel,vscode,visualstudio,figma" />
 
 <br />
 <br />
 
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217a?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00c4cc?style=flat-square&logo=canva&logoColor=white)
 
@@ -227,8 +241,8 @@ Polish, deploy, test, and keep improving.
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Full--Stack-95%25-22c55e?style=for-the-badge" />
-<br /><b>Project Building</b>
+<img src="https://img.shields.io/badge/Programming-92%25-22c55e?style=for-the-badge" />
+<br /><b>Logic Practice</b>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/UI%2FUX-88%25-38bdf8?style=for-the-badge" />
@@ -246,12 +260,13 @@ Polish, deploy, test, and keep improving.
 </table>
 
 ```txt
-Full-stack projects      ████████████████████░   95%
-React + Vite             ███████████████████░░   90%
-Express + TypeScript     ██████████████████░░░   85%
-Prisma + PostgreSQL      █████████████████░░░░   80%
-UI/UX polish             ██████████████████░░░   88%
-AI-assisted workflow     ███████████████████░░   92%
+Python + logic          ██████████████████░░░   88%
+C++ problem solving     ████████████████░░░░░   78%
+C# fundamentals         ███████████████░░░░░░   72%
+JavaScript / TypeScript ███████████████████░░   90%
+React + UI building     ███████████████████░░   90%
+Backend development     █████████████████░░░░   85%
+AI-assisted workflow    ███████████████████░░   92%
 ```
 
 ---
@@ -330,8 +345,8 @@ AI-assisted workflow     ██████████████████�
 <tr>
 <td width="33%" align="center">
 
-### ⚙️ Backend
-Building API structure, authentication, database flow, and secure app logic.
+### 🧠 Programming
+Practicing Python, C++, C#, JavaScript, and TypeScript to build stronger logic.
 
 </td>
 <td width="33%" align="center">
@@ -342,8 +357,8 @@ Designing clean screens, responsive sections, animations, and user-friendly layo
 </td>
 <td width="33%" align="center">
 
-### 🚀 Deployment
-Preparing projects for GitHub, Vercel, environment variables, and production-ready workflows.
+### ⚙️ Backend
+Building API structure, authentication, database flow, and secure app logic.
 
 </td>
 </tr>
@@ -359,7 +374,7 @@ Preparing projects for GitHub, Vercel, environment variables, and production-rea
   <img src="https://img.shields.io/badge/GitHub-ProCodesWithPratap-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/ProCodesWithPratap/obstacle.dev">
-  <img src="https://img.shields.io/badge/Main%20Project-Obstacle%20Developer-22c55e?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test%20Project-Obstacle%20Developer-22c55e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/ProCodesWithPratap?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore%20My%20Work-2563eb?style=for-the-badge&logo=github&logoColor=white" />

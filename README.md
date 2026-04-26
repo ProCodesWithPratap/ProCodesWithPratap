@@ -134,62 +134,55 @@ Purpose    → Test project + skill practice
 
 ---
 
-## 🎨 Creative Build Matrix
+## 🌌 Contribution Universe
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2300&pause=600&color=A855F7&center=true&vCenter=true&width=950&lines=Every+commit+is+a+pixel+in+the+developer+universe;Small+builds+turn+into+real+systems;Practice+%E2%86%92+Projects+%E2%86%92+Polish+%E2%86%92+Progress" />
+
+<br />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProCodesWithPratap&theme=github_dark" />
+
+<br />
+<br />
+
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-### 💡 Think
-<img src="https://img.shields.io/badge/01-Idea-22c55e?style=for-the-badge" />
-
-Plan the feature, flow, and user experience.
+### 🧠 Logic Orbit
+<img src="https://img.shields.io/badge/Python%20%7C%20C++%20%7C%20C%23-Problem%20Solving-22c55e?style=for-the-badge" />
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-### 🧠 Logic
-<img src="https://img.shields.io/badge/02-Code-2563eb?style=for-the-badge" />
-
-Practice programming logic with multiple languages.
+### 🎨 UI Galaxy
+<img src="https://img.shields.io/badge/React%20%7C%20Vite%20%7C%20Tailwind-Creative%20Frontend-38bdf8?style=for-the-badge" />
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-### 🧱 Build
-<img src="https://img.shields.io/badge/03-Build-7c3aed?style=for-the-badge" />
-
-Create frontend, backend, database, and workflow.
-
-</td>
-<td width="25%" align="center">
-
-### 🚀 Ship
-<img src="https://img.shields.io/badge/04-Launch-facc15?style=for-the-badge" />
-
-Polish, deploy, test, and improve continuously.
+### ⚙️ Backend Core
+<img src="https://img.shields.io/badge/Express%20%7C%20Prisma%20%7C%20PostgreSQL-System%20Logic-7c3aed?style=for-the-badge" />
 
 </td>
 </tr>
 </table>
 
 ```txt
-┌──────────────────────────────────────────────────────────────┐
-│                    VEER'S CREATIVE CONSOLE                   │
-├──────────────────────────────────────────────────────────────┤
-│  idea.create()        →  product vision                      │
-│  logic.practice()     →  Python • C++ • C# • JS • TS          │
-│  ui.design()          →  clean visual experience             │
-│  api.connect()        →  working backend flow                │
-│  db.structure()       →  organized data layer                │
-│  deploy.ship()        →  live-ready project                  │
-│  improve.repeat()     →  better with every commit            │
-└──────────────────────────────────────────────────────────────┘
+                ✦ VEER'S DEVELOPMENT UNIVERSE ✦
+
+        [ Ideas ] ───► [ Logic ] ───► [ UI ] ───► [ Backend ]
+            ▲                                                │
+            │                                                ▼
+        [ Improve ] ◄── [ Deploy ] ◄── [ Test ] ◄── [ Build ]
+
+        Main Energy: consistency + curiosity + real practice
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Think+like+a+builder;%3E+Code+like+a+problem-solver;%3E+Design+like+a+creator;%3E+Ship+like+a+founder;%3E+Improve+like+a+professional" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProCodesWithPratap&theme=github_dark&utcOffset=5.5" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProCodesWithPratap&theme=github_dark" width="48%" />
 
 </div>
 
@@ -282,7 +275,7 @@ AI-assisted workflow    ██████████████████�
 <br />
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProCodesWithPratap&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProCodesWithPratap&theme=github_dark&utcOffset=5.5" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProCodesWithPratap&theme=github_dark" />
 
 </div>
 
@@ -322,18 +315,11 @@ AI-assisted workflow    ██████████████████�
 
 ---
 
-## 🌌 Profile Summary
+## 🌌 3D Contribution Skyline
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProCodesWithPratap&theme=github_dark" />
-
-<br />
-<br />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProCodesWithPratap&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProCodesWithPratap&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProCodesWithPratap&theme=github_dark" />
+<img width="100%" src="https://raw.githubusercontent.com/ProCodesWithPratap/ProCodesWithPratap/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Skyline" />
 
 </div>
 

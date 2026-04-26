@@ -58,7 +58,6 @@
 class VeerPratap {
   username = "ProCodesWithPratap";
   role = "Full-Stack Developer in Progress";
-  location = "India";
   currentBuild = "Obstacle Developer";
   mindset = "Build. Break. Fix. Improve. Repeat.";
 
@@ -138,19 +137,55 @@ Deploy     → Vercel-ready workflow
 
 ---
 
-## 🏗️ Obstacle Developer Architecture
+## 🎨 Creative Build Matrix
 
-```mermaid
-graph TD
-    A[User Interface] --> B[React 19 + Vite]
-    B --> C[Tailwind CSS + Framer Motion]
-    B --> D[Express.js API]
-    D --> E[JWT Auth + bcryptjs]
-    D --> F[Prisma ORM]
-    F --> G[PostgreSQL Database]
-    D --> H[Nodemailer Email Layer]
-    B --> I[Vercel Deployment Flow]
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 💡 Idea Spark
+<img src="https://img.shields.io/badge/01-Imagine-22c55e?style=for-the-badge" />
+
+Turn raw ideas into clear product direction.
+
+</td>
+<td width="33%" align="center">
+
+### 🧱 Build Core
+<img src="https://img.shields.io/badge/02-Build-2563eb?style=for-the-badge" />
+
+Create the frontend, backend, database, and logic.
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Ship Fast
+<img src="https://img.shields.io/badge/03-Launch-7c3aed?style=for-the-badge" />
+
+Polish, deploy, test, and keep improving.
+
+</td>
+</tr>
+</table>
+
+```txt
+┌──────────────────────────────────────────────────────────────┐
+│                    VEER'S CREATIVE CONSOLE                   │
+├──────────────────────────────────────────────────────────────┤
+│  idea.create()        →  product vision                      │
+│  ui.design()          →  clean visual experience             │
+│  api.connect()        →  working backend flow                │
+│  db.structure()       →  organized data layer                │
+│  deploy.ship()        →  live-ready project                  │
+│  improve.repeat()     →  better with every commit            │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Design+like+a+creator;%3E+Build+like+a+developer;%3E+Ship+like+a+founder;%3E+Improve+like+a+professional" />
+
+</div>
 
 ---
 

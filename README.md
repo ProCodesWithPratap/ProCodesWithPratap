@@ -12,6 +12,40 @@
 <a href="https://github.com/ProCodesWithPratap?tab=followers"><img src="https://img.shields.io/github/followers/ProCodesWithPratap?label=FOLLOWERS&style=for-the-badge&color=2563eb&logo=github" /></a>
 <a href="https://github.com/ProCodesWithPratap?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-7c3aed?style=for-the-badge&logo=github" /></a>
 
+<br />
+<br />
+
+<img width="96%" src="https://raw.githubusercontent.com/ProCodesWithPratap/ProCodesWithPratap/main/assets/developer-card.svg" alt="Veer Pratap Developer Card" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Developer Dashboard
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Focus-Full--Stack-22c55e?style=for-the-badge" />
+<br /><b>Modern Web Apps</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Project-Obstacle.dev-2563eb?style=for-the-badge" />
+<br /><b>Portfolio + Blog</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Workflow-AI--Assisted-7c3aed?style=for-the-badge" />
+<br /><b>Fast Building</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Mission-Ship%20Real%20Products-facc15?style=for-the-badge" />
+<br /><b>Daily Growth</b>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -101,6 +135,22 @@ Deploy     → Vercel-ready workflow
 </a>
 
 </div>
+
+---
+
+## 🏗️ Obstacle Developer Architecture
+
+```mermaid
+graph TD
+    A[User Interface] --> B[React 19 + Vite]
+    B --> C[Tailwind CSS + Framer Motion]
+    B --> D[Express.js API]
+    D --> E[JWT Auth + bcryptjs]
+    D --> F[Prisma ORM]
+    F --> G[PostgreSQL Database]
+    D --> H[Nodemailer Email Layer]
+    B --> I[Vercel Deployment Flow]
+```
 
 ---
 
@@ -236,6 +286,33 @@ AI-assisted workflow     ██████████████████�
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProCodesWithPratap&theme=github_dark" />
 
 </div>
+
+---
+
+## 🧪 Active Lab
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ⚙️ Backend
+Building API structure, authentication, database flow, and secure app logic.
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 Frontend
+Designing clean screens, responsive sections, animations, and user-friendly layouts.
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Deployment
+Preparing projects for GitHub, Vercel, environment variables, and production-ready workflows.
+
+</td>
+</tr>
+</table>
 
 ---
 

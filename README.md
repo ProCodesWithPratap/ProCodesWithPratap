@@ -8,7 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=ProCodesWithPratap&label=Views&color=22c55e&style=flat-square" />
 <a href="https://github.com/ProCodesWithPratap?tab=followers"><img src="https://img.shields.io/github/followers/ProCodesWithPratap?label=Followers&style=flat-square&color=2563eb&logo=github" /></a>
-<a href="https://github.com/ProCodesWithPratap?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-7c3aed?style=flat-square&logo=github" /></a>
 
 <br />
 <br />
@@ -24,7 +23,7 @@
 ## ⚡ Developer Dashboard
 
 <img src="https://img.shields.io/badge/Multi--Language-Developer-22c55e?style=flat-square" />
-<img src="https://img.shields.io/badge/Test%20Projects-Lab-2563eb?style=flat-square" />
+<img src="https://img.shields.io/badge/Build%20Lab-Learning-2563eb?style=flat-square" />
 <img src="https://img.shields.io/badge/AI--Assisted-Workflow-7c3aed?style=flat-square" />
 <img src="https://img.shields.io/badge/Daily-Growth-facc15?style=flat-square" />
 
@@ -61,34 +60,7 @@ class VeerPratap {
 - 🎨 Design clean interfaces with smooth user experience
 - 🧠 Use AI-assisted workflows to speed up development
 - 🛠️ Practice multiple languages to strengthen logic and problem-solving
-- 📈 Improve every project step by step through commits
-
----
-
-<div align="center">
-
-## 🧪 Project Lab Showcase
-
-### ⚡ Obstacle Developer
-
-**Obstacle Developer is a test project / development lab** for practicing full-stack structure, portfolio pages, blog/content flow, authentication, backend setup, and database integration.
-
-<img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-22c55e?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-Express%20%2B%20TS-2563eb?style=flat-square" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL%20%2B%20Prisma-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/Purpose-Test%20Lab-facc15?style=flat-square" />
-
-<br />
-<br />
-
-<a href="https://github.com/ProCodesWithPratap/obstacle.dev">
-  <img src="https://img.shields.io/badge/Open-Test%20Project-22c55e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/ProCodesWithPratap?tab=repositories">
-  <img src="https://img.shields.io/badge/View-Repos-2563eb?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+- 📈 Improve step by step through consistent commits
 
 ---
 
@@ -96,7 +68,7 @@ class VeerPratap {
 
 ## 🌌 Contribution Universe
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2300&pause=600&color=A855F7&center=true&vCenter=true&width=700&lines=Every+commit+is+a+pixel+in+the+developer+universe;Practice+%E2%86%92+Projects+%E2%86%92+Polish+%E2%86%92+Progress" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2300&pause=600&color=A855F7&center=true&vCenter=true&width=700&lines=Every+commit+is+a+pixel+in+the+developer+universe;Practice+%E2%86%92+Build+%E2%86%92+Polish+%E2%86%92+Progress" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProCodesWithPratap&theme=github_dark" />
 
@@ -230,16 +202,10 @@ AI-assisted workflow    ██████████████████�
 
 <div align="center">
 
-## 🌐 Connect & Explore
+## 🌐 Connect
 
 <a href="https://github.com/ProCodesWithPratap">
   <img src="https://img.shields.io/badge/GitHub-Profile-020617?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/ProCodesWithPratap/obstacle.dev">
-  <img src="https://img.shields.io/badge/Test-Project-22c55e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/ProCodesWithPratap?tab=repositories">
-  <img src="https://img.shields.io/badge/View-Repos-2563eb?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>

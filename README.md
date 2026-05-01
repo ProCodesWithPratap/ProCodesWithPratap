@@ -10,6 +10,9 @@
 <a href="https://github.com/ProCodesWithPratap?tab=followers">
   <img src="https://img.shields.io/github/followers/ProCodesWithPratap?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="GitHub followers" />
 </a>
+<a href="https://www.instagram.com/veerpratap_officials">
+  <img src="https://img.shields.io/badge/Instagram-@veerpratap__officials-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=ProCodesWithPratap&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile views" />
 
 <br />
@@ -26,11 +29,11 @@
 ```ts
 const veerPratap = {
   username: "ProCodesWithPratap",
-  role = "Full-Stack Developer in Progress",
-  identity = "Vibe Coder",
-  focus = ["Web Apps", "Clean UI", "Backend Logic", "Vibe Coding Workflows"],
-  mindset = "Build. Break. Fix. Improve. Repeat.",
-  goal = "Create practical software with clean design and reliable functionality."
+  role: "Full-Stack Developer in Progress",
+  identity: "Vibe Coder",
+  focus: ["Web Apps", "Clean UI", "Backend Logic", "Vibe Coding Workflows"],
+  mindset: "Build. Break. Fix. Improve. Repeat.",
+  goal: "Create practical software with clean design and reliable functionality."
 };
 ```
 
@@ -133,6 +136,9 @@ Idea → Plan → Build UI → Add Logic → Connect Database → Test → Deplo
 
 <a href="https://github.com/ProCodesWithPratap">
   <img src="https://img.shields.io/badge/GitHub-ProCodesWithPratap-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+<a href="https://www.instagram.com/veerpratap_officials">
+  <img src="https://img.shields.io/badge/Instagram-@veerpratap__officials-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
 </a>
 
 </div>

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,30:0f172a,60:2563eb,85:7c3aed,100:22c55e&text=VEER%20PRATAP&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-Assisted%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=twinkling" alt="Veer Pratap profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,30:0f172a,60:2563eb,85:7c3aed,100:22c55e&text=VEER%20PRATAP&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Vibe%20Coder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=twinkling" alt="Veer Pratap profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=780&lines=Building+clean+and+useful+digital+products;Frontend+%2B+Backend+%2B+Database+%2B+Deployment;Learning+fast+%E2%80%A2+Building+daily+%E2%80%A2+Improving+always" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=780&lines=Building+clean+and+useful+digital+products;Frontend+%2B+Backend+%2B+Database+%2B+Deployment;Vibe+Coding+%E2%80%A2+Building+daily+%E2%80%A2+Improving+always" alt="Typing SVG" />
 
 <br />
 <br />
@@ -26,10 +26,11 @@
 ```ts
 const veerPratap = {
   username: "ProCodesWithPratap",
-  role: "Full-Stack Developer in Progress",
-  focus: ["Web Apps", "Clean UI", "Backend Logic", "AI-Assisted Workflows"],
-  mindset: "Build. Break. Fix. Improve. Repeat.",
-  goal: "Create practical software with clean design and reliable functionality."
+  role = "Full-Stack Developer in Progress",
+  identity = "Vibe Coder",
+  focus = ["Web Apps", "Clean UI", "Backend Logic", "Vibe Coding Workflows"],
+  mindset = "Build. Break. Fix. Improve. Repeat.",
+  goal = "Create practical software with clean design and reliable functionality."
 };
 ```
 
@@ -43,7 +44,7 @@ I am focused on building modern web applications, improving problem-solving skil
 - Strengthening programming logic with **Python**, **C++**, and **C#**
 - Creating responsive interfaces with **Tailwind CSS** and modern UI patterns
 - Working with authentication, APIs, database models, and deployment pipelines
-- Using AI-assisted workflows to plan, debug, document, and ship faster
+- Using vibe-coding workflows to plan, debug, document, and ship faster
 
 ---
 

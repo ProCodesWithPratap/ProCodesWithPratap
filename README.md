@@ -1,13 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,30:0f172a,60:2563eb,85:7c3aed,100:22c55e&text=VEER%20PRATAP&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Multi-Language%20Developer%20%7C%20AI-Powered%20Builder&descAlignY=58&descSize=15&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,30:0f172a,60:2563eb,85:7c3aed,100:22c55e&text=VEER%20PRATAP&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-Assisted%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&animation=twinkling" alt="Veer Pratap profile banner" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=700&lines=Building+modern+digital+products;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;React+%E2%80%A2+Vite+%E2%80%A2+Express+%E2%80%A2+Prisma;Learning+fast+%E2%80%A2+Building+daily+%E2%80%A2+Improving+always" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=22C55E&center=true&vCenter=true&width=780&lines=Building+clean+and+useful+digital+products;Frontend+%2B+Backend+%2B+Database+%2B+Deployment;Learning+fast+%E2%80%A2+Building+daily+%E2%80%A2+Improving+always" alt="Typing SVG" />
 
 <br />
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=ProCodesWithPratap&label=Views&color=22c55e&style=flat-square" />
-<a href="https://github.com/ProCodesWithPratap?tab=followers"><img src="https://img.shields.io/github/followers/ProCodesWithPratap?label=Followers&style=flat-square&color=2563eb&logo=github" /></a>
+<a href="https://github.com/ProCodesWithPratap?tab=followers">
+  <img src="https://img.shields.io/github/followers/ProCodesWithPratap?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="GitHub followers" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=ProCodesWithPratap&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile views" />
 
 <br />
 <br />
@@ -18,165 +21,100 @@
 
 ---
 
-<div align="center">
-
-## ⚡ Developer Dashboard
-
-<img src="https://img.shields.io/badge/Multi--Language-Developer-22c55e?style=flat-square" />
-<img src="https://img.shields.io/badge/Build%20Lab-Learning-2563eb?style=flat-square" />
-<img src="https://img.shields.io/badge/AI--Assisted-Workflow-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/Daily-Growth-facc15?style=flat-square" />
-
-<br />
-<br />
-
-**Wide Skill Stack** · **Experiment + Learn** · **Build + Improve**
-
-</div>
-
----
-
 ## 👋 About Me
 
 ```ts
-class VeerPratap {
-  username = "ProCodesWithPratap";
-  role = "Developer in Progress";
-  focus = "Full-stack apps, creative UI, backend logic";
-  mindset = "Build. Break. Fix. Improve. Repeat.";
-
-  languages = ["Python", "C++", "C#", "JavaScript", "TypeScript", "HTML", "CSS"];
-
-  stack = {
-    frontend: ["React", "Vite", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "JWT"],
-    database: ["PostgreSQL", "Prisma ORM", "Supabase"],
-    tools: ["GitHub", "Vercel", "VS Code", "Canva"]
-  };
-}
+const veerPratap = {
+  username: "ProCodesWithPratap",
+  role: "Full-Stack Developer in Progress",
+  focus: ["Web Apps", "Clean UI", "Backend Logic", "AI-Assisted Workflows"],
+  mindset: "Build. Break. Fix. Improve. Repeat.",
+  goal: "Create practical software with clean design and reliable functionality."
+};
 ```
 
-- 🚀 Build and test full-stack web applications
-- 🎨 Design clean interfaces with smooth user experience
-- 🧠 Use AI-assisted workflows to speed up development
-- 🛠️ Practice multiple languages to strengthen logic and problem-solving
-- 📈 Improve step by step through consistent commits
+I am focused on building modern web applications, improving problem-solving skills, and turning ideas into working products. I enjoy combining frontend design, backend logic, databases, and deployment workflows to create complete applications.
 
 ---
 
-<div align="center">
+## 🚀 Current Focus
 
-## 🌌 Contribution Universe
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2300&pause=600&color=A855F7&center=true&vCenter=true&width=700&lines=Every+commit+is+a+pixel+in+the+developer+universe;Practice+%E2%86%92+Build+%E2%86%92+Polish+%E2%86%92+Progress" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProCodesWithPratap&theme=github_dark" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Logic-Python%20%7C%20C++%20%7C%20C%23-22c55e?style=flat-square" />
-<img src="https://img.shields.io/badge/UI-React%20%7C%20Vite%20%7C%20Tailwind-38bdf8?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-Express%20%7C%20Prisma-7c3aed?style=flat-square" />
-
-```txt
-Ideas → Logic → UI → Backend → Test → Deploy → Improve
-```
-
-</div>
+- Building full-stack web applications with **React**, **Node.js**, **Express**, and **PostgreSQL**
+- Strengthening programming logic with **Python**, **C++**, and **C#**
+- Creating responsive interfaces with **Tailwind CSS** and modern UI patterns
+- Working with authentication, APIs, database models, and deployment pipelines
+- Using AI-assisted workflows to plan, debug, document, and ship faster
 
 ---
 
+## 🧰 Tech Stack
+
 <div align="center">
 
-## 🧰 Tech Arsenal
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,html,css&perline=7" alt="Languages" />
 
-### Programming Languages
-<img width="100%" src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,html,css&perline=7" alt="Programming Languages" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&perline=4" alt="Frontend" />
 
-### Frontend Development
-<img width="100%" src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&perline=4" alt="Frontend Development" />
-
-### Backend, Database & Runtime
-<img width="100%" src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase&perline=5" alt="Backend Database Runtime" />
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase&perline=5" alt="Backend and Database" />
 
 ### Tools & Platforms
-<img width="100%" src="https://skillicons.dev/icons?i=github,vercel,vscode,visualstudio,figma&perline=5" alt="Tools Platforms" />
-
-<br />
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217a?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio,figma&perline=6" alt="Tools and Platforms" />
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🎯 Build Status
-
-<img src="https://img.shields.io/badge/Programming-92%25-22c55e?style=flat-square" />
-<img src="https://img.shields.io/badge/UI%2FUX-88%25-38bdf8?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-85%25-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/Consistency-97%25-facc15?style=flat-square" />
-
-</div>
+## ⚙️ Development Workflow
 
 ```txt
-Python + logic          ██████████████████░░░   88%
-C++ problem solving     ████████████████░░░░░   78%
-C# fundamentals         ███████████████░░░░░░   72%
-JavaScript / TypeScript ███████████████████░░   90%
-React + UI building     ███████████████████░░   90%
-Backend development     █████████████████░░░░   85%
-AI-assisted workflow    ███████████████████░░   92%
+Idea → Plan → Build UI → Add Logic → Connect Database → Test → Deploy → Improve
 ```
 
+- **Plan first:** define the core feature and user flow
+- **Build clean:** write readable code and simple component structures
+- **Test early:** catch errors before they become bigger issues
+- **Deploy fast:** use GitHub and Vercel to ship working versions
+- **Improve continuously:** refine UI, performance, and maintainability
+
 ---
+
+## 📊 GitHub Insights
 
 <div align="center">
 
-## 📊 GitHub Analytics
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProCodesWithPratap&theme=github_dark" alt="GitHub profile summary" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ProCodesWithPratap&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProCodesWithPratap&theme=github-dark-blue&hide_border=true" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProCodesWithPratap&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+<br />
+<br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProCodesWithPratap&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProCodesWithPratap&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top languages" />
+
+<br />
+<br />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProCodesWithPratap&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-## 🏆 Achievement Wall
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ProCodesWithPratap&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=3" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProCodesWithPratap&theme=github-dark&hide_border=true&area=true&custom_title=Development%20Activity" alt="Contribution graph" />
 
 </div>
 
 ---
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProCodesWithPratap&theme=github-dark&hide_border=true&area=true&custom_title=Veer%20Pratap's%20Development%20Journey" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProCodesWithPratap/ProCodesWithPratap/output/github-contribution-grid-snake-dark.svg" />
@@ -188,24 +126,12 @@ AI-assisted workflow    ██████████████████�
 
 ---
 
-<div align="center">
-
-## 🧪 Active Lab
-
-<img src="https://img.shields.io/badge/Programming-Python%20%7C%20C++%20%7C%20C%23-22c55e?style=flat-square" />
-<img src="https://img.shields.io/badge/Frontend-Responsive%20UI-38bdf8?style=flat-square" />
-<img src="https://img.shields.io/badge/Backend-API%20%2B%20Auth-7c3aed?style=flat-square" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 Connect
 
+<div align="center">
+
 <a href="https://github.com/ProCodesWithPratap">
-  <img src="https://img.shields.io/badge/GitHub-Profile-020617?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ProCodesWithPratap-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
 </div>
@@ -214,13 +140,8 @@ AI-assisted workflow    ██████████████████�
 
 <div align="center">
 
-<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22c55e,35:2563eb,70:7c3aed,100:020617&section=footer" alt="Footer banner" />
 
-<br />
-<br />
-
-<h3>✨ Building with patience. Improving with every commit. ✨</h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22c55e,35:2563eb,70:7c3aed,100:020617&section=footer" />
+<h3>Building with patience. Improving with every commit.</h3>
 
 </div>

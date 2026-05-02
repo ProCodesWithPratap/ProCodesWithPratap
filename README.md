@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,28:0F172A,55:2563EB,78:7C3AED,100:22C55E&text=VEER%20PRATAP&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Vibe%20Coder%20%E2%80%A2%20Full-Stack%20Developer%20in%20Progress%20%E2%80%A2%20Digital%20Product%20Builder&descAlignY=58&descSize=17&animation=twinkling" alt="Veer Pratap GitHub profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,30:0F172A,58:2563EB,80:7C3AED,100:22C55E&text=VEER%20PRATAP&fontColor=FFFFFF&fontSize=62&fontAlignY=34&desc=Vibe%20Coder%20%E2%80%A2%20UI-Focused%20Full-Stack%20Builder%20%E2%80%A2%20ProCodesWithPratap&descAlignY=57&descSize=18&animation=twinkling" alt="Veer Pratap GitHub profile banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=950&lines=I+build+clean%2C+useful%2C+beautiful+web+products.;React+%E2%80%A2+Vite+%E2%80%A2+Tailwind+%E2%80%A2+Node+%E2%80%A2+PostgreSQL;Vibe+Coding+with+discipline%2C+taste%2C+and+shipping+energy.;Learning+fast.+Building+daily.+Improving+every+commit." alt="Animated typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=650&color=22C55E&center=true&vCenter=true&width=980&lines=I+build+clean%2C+useful%2C+beautiful+web+products.;Vibe+coding+with+discipline%2C+taste%2C+and+shipping+energy.;React+%E2%80%A2+Vite+%E2%80%A2+Tailwind+%E2%80%A2+Node+%E2%80%A2+PostgreSQL;Learning+fast.+Building+daily.+Improving+every+commit." alt="Animated typing headline" />
 </a>
 
 <br />
@@ -13,65 +13,61 @@
   <img src="https://img.shields.io/github/followers/ProCodesWithPratap?label=Followers&style=for-the-badge&color=2563EB&logo=github" alt="GitHub followers" />
 </a>
 <a href="https://github.com/ProCodesWithPratap?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repos-Building%20Mode-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Building-Public%20Projects-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Building public projects" />
 </a>
 <a href="https://www.instagram.com/veerpratap_officials">
   <img src="https://img.shields.io/badge/Instagram-%40veerpratap_officials-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ProCodesWithPratap&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
+<br />
+<br />
+
+<img width="100%" src="./assets/developer-card.svg" alt="Veer Pratap developer identity card" />
+
 </div>
 
 ---
 
-## ⚡ Identity
-
-<table>
-<tr>
-<td width="58%" valign="top">
+## ⚡ Developer Signal
 
 ### I am **Veer Pratap** — `ProCodesWithPratap`
 
-I am a **vibe coder** and full-stack developer in progress, focused on turning rough ideas into clean, usable, polished digital products.
+I am a **vibe coder** and **UI-focused full-stack developer in progress**, building clean interfaces, practical tools, and product-style web experiences.
 
-My direction is simple: **build practical software, design sharp interfaces, understand the logic deeply, and improve every single commit.**
-
-- 🧠 I care about **clean UI, readable code, and real product flow**
-- ⚙️ I build with **frontend + backend + database + deployment** thinking
-- 🚀 I like shipping fast, then refining with discipline
-- 🎯 I am building my developer arc one project at a time
-
-</td>
-<td width="42%" valign="top">
+My goal is not to collect random repositories. My goal is to turn every project into visible proof of **taste, execution, consistency, and growth**.
 
 ```ts
 const veer = {
-  username: "ProCodesWithPratap",
+  handle: "ProCodesWithPratap",
   identity: "Vibe Coder",
-  currentMode: "Build → Debug → Ship → Upgrade",
+  focus: "UI-focused full-stack development",
   stack: ["React", "Vite", "Tailwind", "Node", "PostgreSQL"],
-  learning: ["Python", "C++", "C#", "TypeScript"],
-  standard: "Useful first. Beautiful always."
+  learning: ["TypeScript", "Python", "C++", "C#"],
+  principle: "Useful first. Beautiful always."
 };
 ```
 
-</td>
-</tr>
-</table>
+- 🧠 **UI thinking:** clean layout, strong hierarchy, smooth user flow
+- ⚙️ **Engineering thinking:** readable code, real logic, database-aware structure
+- 🚀 **Shipping thinking:** build fast, test honestly, polish continuously
+- 🎯 **Learning direction:** frontend depth, backend confidence, stronger product sense
 
 ---
 
-## 🔥 Current Build Mode
+## 🧭 Current Operating System
 
 ```txt
-Idea → Structure → Interface → Logic → Data → Test → Deploy → Polish
+Idea → Product Flow → Interface → Logic → Data → Test → Deploy → Polish
 ```
 
-- Building polished web apps with **React**, **Vite**, and **Tailwind CSS**
-- Practicing backend thinking with **Node.js**, **Express**, **Prisma**, and **PostgreSQL**
-- Improving programming logic through **Python**, **C++**, and **C#**
-- Creating tools that help developers present themselves better
-- Learning how to move from “just code” to **complete product thinking**
+| Layer | What I focus on |
+|---|---|
+| **Design** | Responsive layouts, clean spacing, readable hierarchy, dark-mode polish |
+| **Frontend** | React components, Vite speed, Tailwind systems, reusable UI patterns |
+| **Backend** | APIs, authentication flow, Prisma models, PostgreSQL structure |
+| **Shipping** | GitHub workflow, deployment readiness, README clarity, iteration |
+| **Growth** | Better logic, cleaner architecture, stronger public project quality |
 
 ---
 
@@ -100,7 +96,7 @@ Idea → Structure → Interface → Logic → Data → Test → Deploy → Poli
 <div align="center">
 
 <a href="https://github.com/ProCodesWithPratap/dev-profile-studio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProCodesWithPratap&repo=dev-profile-studio&theme=github_dark&hide_border=true" alt="Dev Profile Studio repository card" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProCodesWithPratap&repo=dev-profile-studio&theme=github_dark&hide_border=true" alt="Dev Profile Studio repository card" />
 </a>
 
 </div>
@@ -109,55 +105,28 @@ Idea → Structure → Interface → Logic → Data → Test → Deploy → Poli
 
 A modern **React + Vite + Tailwind CSS** app that generates polished GitHub profile README files.
 
-**Why it matters:** developers should not look invisible online. A strong profile becomes proof of work, taste, consistency, and direction.
+**Why this project matters:** a developer profile is not just decoration. It is a public proof-of-work surface. This project helps developers turn scattered skills into a cleaner, sharper, more credible profile.
 
-**Built around:**
+**Core features:**
 
-- Live README markdown generation
-- Editable profile fields
-- Multiple profile templates
-- Optional stats, streak, language, and visitor sections
-- Copy/download workflow for `README.md`
-- Clean responsive Tailwind UI
+- Live GitHub profile README markdown generation
+- Editable profile fields for identity, headline, skills, tools, links, and goals
+- Built-in templates for focused, student, and professional profiles
+- Optional stats, streak, language, and visitor badge sections
+- Copy-to-clipboard and download-as-`README.md` workflow
+- Clean responsive UI built with Tailwind CSS
 
 ---
 
-## 🧩 What I Like Building
+## 🧩 Builder Zones
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎨 Frontend Systems
-- Clean layouts
-- Responsive UI
-- Dark/cozy themes
-- Component-based structure
-- Polished user experience
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Full-Stack Apps
-- API flows
-- Auth logic
-- Database models
-- Dashboard features
-- Deployment-ready builds
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 Developer Tools
-- Profile generators
-- Utility interfaces
-- Workflow helpers
-- Markdown systems
-- Productivity-focused apps
-
-</td>
-</tr>
-</table>
+| 🎨 Interface Craft | ⚙️ App Logic | 🧠 Developer Tools |
+|---|---|---|
+| Landing pages | API flows | README generators |
+| Dashboards | Form handling | Workflow utilities |
+| Profile systems | Auth patterns | Markdown systems |
+| Dark/cozy themes | Database models | Profile builders |
+| Responsive components | Error-state thinking | Productivity interfaces |
 
 ---
 
@@ -176,7 +145,7 @@ A modern **React + Vite + Tailwind CSS** app that generates polished GitHub prof
 <br />
 <br />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProCodesWithPratap&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats" />
+<img width="100%" src="https://streak-stats.demolab.com?user=ProCodesWithPratap&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats" />
 
 <br />
 <br />
@@ -197,30 +166,32 @@ A modern **React + Vite + Tailwind CSS** app that generates polished GitHub prof
 
 ---
 
-## 🛠️ My Developer Operating System
+## 🛡️ Build Standards I Am Growing Into
 
 ```txt
-01. Make the idea clear
-02. Build the smallest working version
-03. Improve the interface until it feels clean
-04. Connect real data and logic
-05. Remove bugs, friction, and confusion
-06. Ship publicly when possible
-07. Upgrade the project with every lesson learned
+Readable code > clever code
+Useful UI > flashy UI
+Secure defaults > risky shortcuts
+Small shipped product > endless unfinished idea
+Consistent commits > random bursts of motivation
 ```
 
-> I do not want to only collect repositories. I want every project to become a visible step in my evolution as a developer.
+- Validate inputs before trusting data
+- Keep components focused and reusable
+- Name files and functions so future-me understands them
+- Make loading, empty, and error states part of the design
+- Write READMEs that explain purpose, stack, setup, and usage clearly
 
 ---
 
 ## 🎯 2026 Direction
 
-- Build stronger public projects with clear README documentation
-- Create portfolio-quality web applications
+- Ship more polished public projects
+- Build portfolio-quality React applications
 - Improve DSA and programming logic consistently
 - Learn deeper backend architecture and database design
-- Ship more polished developer tools and product-style interfaces
-- Build a GitHub profile that shows growth, taste, and execution
+- Turn `dev-profile-studio` into a stronger developer-branding tool
+- Make this profile show growth through real commits, not just visuals
 
 ---
 
@@ -241,7 +212,7 @@ A modern **React + Vite + Tailwind CSS** app that generates polished GitHub prof
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22C55E,35:2563EB,70:7C3AED,100:020617&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:22C55E,35:2563EB,70:7C3AED,100:020617&section=footer" alt="Footer wave" />
 
 ### `Building with taste. Shipping with discipline. Improving with every commit.`
 

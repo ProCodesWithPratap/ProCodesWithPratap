@@ -1,12 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,30:0F172A,58:2563EB,80:7C3AED,100:22C55E&text=VEER%20PRATAP&fontColor=FFFFFF&fontSize=62&fontAlignY=34&desc=Vibe%20Coder%20%E2%80%A2%20UI-Focused%20Full-Stack%20Builder%20%E2%80%A2%20ProCodesWithPratap&descAlignY=57&descSize=18&animation=twinkling" alt="Veer Pratap GitHub profile banner" />
+<img width="100%" src="./assets/hero-banner.svg" alt="Veer Pratap GitHub hero banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=650&color=22C55E&center=true&vCenter=true&width=980&lines=I+build+clean%2C+useful%2C+beautiful+web+products.;Vibe+coding+with+discipline%2C+taste%2C+and+shipping+energy.;React+%E2%80%A2+Vite+%E2%80%A2+Tailwind+%E2%80%A2+Node+%E2%80%A2+PostgreSQL;Learning+fast.+Building+daily.+Improving+every+commit." alt="Animated typing headline" />
-</a>
-
-<br />
 <br />
 
 <a href="https://github.com/ProCodesWithPratap?tab=followers">
@@ -156,16 +151,6 @@ A modern **React + Vite + Tailwind CSS** app that generates polished GitHub prof
 
 ---
 
-## 🏆 Progress Board
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ProCodesWithPratap&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
 ## 🛡️ Build Standards I Am Growing Into
 
 ```txt
@@ -211,8 +196,6 @@ Consistent commits > random bursts of motivation
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:22C55E,35:2563EB,70:7C3AED,100:020617&section=footer" alt="Footer wave" />
 
 ### `Building with taste. Shipping with discipline. Improving with every commit.`
 

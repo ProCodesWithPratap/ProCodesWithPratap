@@ -1,0 +1,71 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Veer Pratap GitHub Hero Banner</title>
+  <desc id="desc">A premium dark hero banner for Veer Pratap, ProCodesWithPratap.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.34" stop-color="#0F172A"/>
+      <stop offset="0.66" stop-color="#2563EB"/>
+      <stop offset="0.86" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.52" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .grid { opacity: .13; }
+      .name { font: 900 70px 'Segoe UI', Arial, sans-serif; fill: #FFFFFF; letter-spacing: 2px; }
+      .tagline { font: 800 26px 'Segoe UI', Arial, sans-serif; fill: #E0F2FE; }
+      .mono { font: 700 18px 'JetBrains Mono', Consolas, monospace; fill: #DCFCE7; }
+      .chip { font: 900 14px 'Segoe UI', Arial, sans-serif; fill: #F8FAFC; }
+      .pulse { animation: pulse 3.8s ease-in-out infinite; transform-origin: center; }
+      .float { animation: float 5s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .28; transform: scale(1); } 50% { opacity: .82; transform: scale(1.05); } }
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="38" fill="url(#bg)"/>
+  <rect x="14" y="14" width="1172" height="332" rx="30" stroke="url(#stroke)" stroke-width="3" opacity=".96"/>
+
+  <g class="grid">
+    <path d="M0 72H1200M0 144H1200M0 216H1200M0 288H1200" stroke="#FFFFFF"/>
+    <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360" stroke="#FFFFFF"/>
+  </g>
+
+  <circle class="pulse" cx="1010" cy="90" r="86" fill="#22C55E"/>
+  <circle class="pulse" cx="1080" cy="286" r="98" fill="#38BDF8"/>
+  <circle class="pulse" cx="116" cy="292" r="88" fill="#A855F7"/>
+
+  <g class="float">
+    <rect x="78" y="72" width="760" height="182" rx="28" fill="#020617" opacity=".76" stroke="#38BDF8"/>
+    <text x="120" y="145" class="name">VEER PRATAP</text>
+    <text x="124" y="190" class="tagline">Vibe Coder • UI-Focused Full-Stack Builder</text>
+    <text x="126" y="231" class="mono">ProCodesWithPratap // building clean web products with taste and discipline</text>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <rect x="120" y="282" width="116" height="38" rx="19" fill="#22C55E" opacity=".94"/>
+    <text x="158" y="307" class="chip">React</text>
+    <rect x="252" y="282" width="104" height="38" rx="19" fill="#2563EB" opacity=".94"/>
+    <text x="286" y="307" class="chip">Vite</text>
+    <rect x="372" y="282" width="132" height="38" rx="19" fill="#7C3AED" opacity=".94"/>
+    <text x="408" y="307" class="chip">Tailwind</text>
+    <rect x="520" y="282" width="112" height="38" rx="19" fill="#0EA5E9" opacity=".94"/>
+    <text x="556" y="307" class="chip">Node</text>
+    <rect x="648" y="282" width="152" height="38" rx="19" fill="#16A34A" opacity=".94"/>
+    <text x="681" y="307" class="chip">PostgreSQL</text>
+    <rect x="816" y="282" width="156" height="38" rx="19" fill="#F59E0B" opacity=".96"/>
+    <text x="851" y="307" class="chip">Ship Mode</text>
+  </g>
+</svg>

@@ -4,21 +4,9 @@
 
 <br />
 
-<a href="https://github.com/ProCodesWithPratap?tab=followers">
-  <img src="https://img.shields.io/github/followers/ProCodesWithPratap?label=Followers&style=for-the-badge&color=2563EB&logo=github" alt="GitHub followers" />
-</a>
-<a href="https://github.com/ProCodesWithPratap?tab=repositories">
-  <img src="https://img.shields.io/badge/Building-Public%20Projects-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Building public projects" />
-</a>
-<a href="https://www.instagram.com/veerpratap_officials">
-  <img src="https://img.shields.io/badge/Instagram-%40veerpratap_officials-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ProCodesWithPratap&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
-
-<br />
-<br />
-
-<img width="100%" src="./assets/developer-card.svg" alt="Veer Pratap developer identity card" />
+[![GitHub](https://img.shields.io/badge/GitHub-ProCodesWithPratap-181717?style=for-the-badge&logo=github)](https://github.com/ProCodesWithPratap)
+[![Instagram](https://img.shields.io/badge/Instagram-%40veerpratap_officials-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veerpratap_officials)
+[![Public Projects](https://img.shields.io/badge/Building-Public%20Projects-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProCodesWithPratap?tab=repositories)
 
 </div>
 
@@ -58,38 +46,41 @@ const veer = {
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,html,css&perline=7" alt="Languages" />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,figma&perline=5" alt="Frontend tools" />
 
-### Backend, Database & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,supabase&perline=5" alt="Backend and database tools" />
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma)
 
-### Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio,npm&perline=6" alt="Developer tools" />
+### Backend, Database & Tools
 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 ## 🚀 Featured Public Builds
 
-<div align="center">
-
-<a href="https://github.com/ProCodesWithPratap/dev-profile-studio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProCodesWithPratap&repo=dev-profile-studio&theme=github_dark&hide_border=true" alt="Dev Profile Studio repository card" />
-</a>
-<a href="https://github.com/ProCodesWithPratap/infinite-realms-dual-world">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProCodesWithPratap&repo=infinite-realms-dual-world&theme=github_dark&hide_border=true" alt="Infinite Realms Dual World repository card" />
-</a>
-
-</div>
-
-### `dev-profile-studio`
+### [`dev-profile-studio`](https://github.com/ProCodesWithPratap/dev-profile-studio)
 
 A modern **React + Vite + Tailwind CSS** app for generating polished GitHub profile README files.
 
@@ -102,6 +93,14 @@ A modern **React + Vite + Tailwind CSS** app for generating polished GitHub prof
 - Optional stats, streak, language, and visitor sections
 - Copy/download workflow for `README.md`
 - Responsive Tailwind UI with clean visual hierarchy
+
+### [`infinite-realms-dual-world`](https://github.com/ProCodesWithPratap/infinite-realms-dual-world)
+
+A public creative build focused on world-building, interface presentation, and visual project polish.
+
+### [`Abyss-Drift-Dead-Planet-City`](https://github.com/ProCodesWithPratap/Abyss-Drift-Dead-Planet-City)
+
+A public experimental project for creative UI direction and atmospheric design practice.
 
 ---
 
@@ -120,29 +119,16 @@ Idea → User Flow → Interface → Logic → Data → Test → Deploy → Poli
 
 ---
 
-## 📊 GitHub Command Center
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProCodesWithPratap&theme=github_dark" alt="GitHub profile details" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProCodesWithPratap&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Veer%27s%20GitHub%20Stats" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProCodesWithPratap&layout=compact&theme=github_dark&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top languages" />
-
-<br />
-<br />
-
-<img width="100%" src="https://streak-stats.demolab.com?user=ProCodesWithPratap&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats" />
-
-<br />
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProCodesWithPratap&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ProCodesWithPratap&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProCodesWithPratap&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 
 </div>
+
+> If a stats card does not load, refresh the page. GitHub sometimes blocks or delays third-party image services.
 
 ---
 
@@ -177,16 +163,8 @@ Consistent progress > random motivation
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/ProCodesWithPratap">
-  <img src="https://img.shields.io/badge/GitHub-ProCodesWithPratap-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://www.instagram.com/veerpratap_officials">
-  <img src="https://img.shields.io/badge/Instagram-%40veerpratap_officials-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
-</a>
-
-</div>
+- GitHub: [ProCodesWithPratap](https://github.com/ProCodesWithPratap)
+- Instagram: [@veerpratap_officials](https://www.instagram.com/veerpratap_officials)
 
 ---
 

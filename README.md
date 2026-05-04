@@ -24,49 +24,39 @@
 
 ---
 
-## ⚡ Developer Signal
+## ⚡ About Me
 
 ### I am **Veer Pratap** — `ProCodesWithPratap`
 
-I am a **vibe coder** and **UI-focused full-stack developer in progress**, building clean interfaces, practical tools, and product-style web experiences.
+I am a **vibe coder** and **UI-focused full-stack developer in progress** building clean, practical, product-style web experiences.
 
-My goal is not to collect random repositories. My goal is to turn every project into visible proof of **taste, execution, consistency, and growth**.
+I care about interfaces that look intentional, code that stays readable, and projects that show visible growth through real commits — not just decoration.
 
 ```ts
 const veer = {
   handle: "ProCodesWithPratap",
-  identity: "Vibe Coder",
-  focus: "UI-focused full-stack development",
-  stack: ["React", "Vite", "Tailwind", "Node", "PostgreSQL"],
-  learning: ["TypeScript", "Python", "C++", "C#"],
-  principle: "Useful first. Beautiful always."
+  role: "Vibe Coder | UI-Focused Full-Stack Developer",
+  currentFocus: ["React", "Vite", "Tailwind CSS", "TypeScript"],
+  growingInto: ["Backend Architecture", "Databases", "Clean Project Systems"],
+  buildStyle: "Useful first. Beautiful always.",
+  mindset: "Ship, learn, polish, repeat."
 };
 ```
 
-- 🧠 **UI thinking:** clean layout, strong hierarchy, smooth user flow
-- ⚙️ **Engineering thinking:** readable code, real logic, database-aware structure
-- 🚀 **Shipping thinking:** build fast, test honestly, polish continuously
-- 🎯 **Learning direction:** frontend depth, backend confidence, stronger product sense
-
 ---
 
-## 🧭 Current Operating System
+## 🧭 What I Build
 
-```txt
-Idea → Product Flow → Interface → Logic → Data → Test → Deploy → Polish
-```
-
-| Layer | What I focus on |
+| Area | What I focus on |
 |---|---|
-| **Design** | Responsive layouts, clean spacing, readable hierarchy, dark-mode polish |
-| **Frontend** | React components, Vite speed, Tailwind systems, reusable UI patterns |
-| **Backend** | APIs, authentication flow, Prisma models, PostgreSQL structure |
-| **Shipping** | GitHub workflow, deployment readiness, README clarity, iteration |
-| **Growth** | Better logic, cleaner architecture, stronger public project quality |
+| 🎨 **Frontend Interfaces** | Responsive layouts, dark-mode polish, clean spacing, smooth user flow |
+| ⚙️ **Full-Stack Apps** | React apps, API flows, auth patterns, database-backed features |
+| 🧠 **Developer Tools** | README generators, profile systems, workflow utilities, markdown tools |
+| 🚀 **Product Thinking** | Clear purpose, usable features, good presentation, deployment readiness |
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -86,42 +76,47 @@ Idea → Product Flow → Interface → Logic → Data → Test → Deploy → P
 
 ---
 
-## 🚀 Featured Public Build
+## 🚀 Featured Public Builds
 
 <div align="center">
 
 <a href="https://github.com/ProCodesWithPratap/dev-profile-studio">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProCodesWithPratap&repo=dev-profile-studio&theme=github_dark&hide_border=true" alt="Dev Profile Studio repository card" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProCodesWithPratap&repo=dev-profile-studio&theme=github_dark&hide_border=true" alt="Dev Profile Studio repository card" />
+</a>
+<a href="https://github.com/ProCodesWithPratap/infinite-realms-dual-world">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProCodesWithPratap&repo=infinite-realms-dual-world&theme=github_dark&hide_border=true" alt="Infinite Realms Dual World repository card" />
 </a>
 
 </div>
 
 ### `dev-profile-studio`
 
-A modern **React + Vite + Tailwind CSS** app that generates polished GitHub profile README files.
+A modern **React + Vite + Tailwind CSS** app for generating polished GitHub profile README files.
 
-**Why this project matters:** a developer profile is not just decoration. It is a public proof-of-work surface. This project helps developers turn scattered skills into a cleaner, sharper, more credible profile.
+**Why it matters:** a developer profile is a public proof-of-work surface. This project helps turn scattered skills, links, and goals into a sharper developer identity.
 
-**Core features:**
+**Core ideas:**
 
-- Live GitHub profile README markdown generation
-- Editable profile fields for identity, headline, skills, tools, links, and goals
-- Built-in templates for focused, student, and professional profiles
-- Optional stats, streak, language, and visitor badge sections
-- Copy-to-clipboard and download-as-`README.md` workflow
-- Clean responsive UI built with Tailwind CSS
+- Live GitHub profile README generation
+- Editable fields for identity, headline, skills, tools, links, and goals
+- Optional stats, streak, language, and visitor sections
+- Copy/download workflow for `README.md`
+- Responsive Tailwind UI with clean visual hierarchy
 
 ---
 
-## 🧩 Builder Zones
+## 🧩 Builder DNA
 
-| 🎨 Interface Craft | ⚙️ App Logic | 🧠 Developer Tools |
-|---|---|---|
-| Landing pages | API flows | README generators |
-| Dashboards | Form handling | Workflow utilities |
-| Profile systems | Auth patterns | Markdown systems |
-| Dark/cozy themes | Database models | Profile builders |
-| Responsive components | Error-state thinking | Productivity interfaces |
+```txt
+Idea → User Flow → Interface → Logic → Data → Test → Deploy → Polish
+```
+
+| Strength I am building | How it shows up |
+|---|---|
+| **Taste** | Clean layouts, strong hierarchy, focused visual decisions |
+| **Execution** | Turning rough ideas into working projects |
+| **Consistency** | Improving through commits, iteration, and public proof |
+| **Engineering Discipline** | Readable code, safer defaults, better structure, clear READMEs |
 
 ---
 
@@ -151,21 +146,21 @@ A modern **React + Vite + Tailwind CSS** app that generates polished GitHub prof
 
 ---
 
-## 🛡️ Build Standards I Am Growing Into
+## 🛡️ Standards I Follow
 
 ```txt
 Readable code > clever code
 Useful UI > flashy UI
 Secure defaults > risky shortcuts
-Small shipped product > endless unfinished idea
-Consistent commits > random bursts of motivation
+Shipped projects > unfinished ideas
+Consistent progress > random motivation
 ```
 
-- Validate inputs before trusting data
 - Keep components focused and reusable
-- Name files and functions so future-me understands them
-- Make loading, empty, and error states part of the design
-- Write READMEs that explain purpose, stack, setup, and usage clearly
+- Validate inputs before trusting data
+- Design loading, empty, and error states intentionally
+- Name files and functions so the next developer understands them
+- Write READMEs that explain purpose, stack, setup, usage, and future scope
 
 ---
 
@@ -173,10 +168,10 @@ Consistent commits > random bursts of motivation
 
 - Ship more polished public projects
 - Build portfolio-quality React applications
-- Improve DSA and programming logic consistently
-- Learn deeper backend architecture and database design
+- Improve TypeScript, backend logic, and database design
+- Strengthen DSA and programming fundamentals
 - Turn `dev-profile-studio` into a stronger developer-branding tool
-- Make this profile show growth through real commits, not just visuals
+- Make this profile reflect real growth through code, not only visuals
 
 ---
 
